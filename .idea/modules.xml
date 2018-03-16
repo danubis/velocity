@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/velocity/velocity.iml" filepath="$PROJECT_DIR$/velocity/velocity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/velocity-android.iml" filepath="$PROJECT_DIR$/velocity-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/velocity.iml" filepath="$PROJECT_DIR$/velocity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/velocity/velocity-velocity.iml" filepath="$PROJECT_DIR$/velocity/velocity-velocity.iml" />
     </modules>
   </component>
 </project>

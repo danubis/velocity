@@ -292,7 +292,7 @@ public class Velocity
 
     public interface OAuthListener
     {
-        void onOAuthToken(String token);
+        void onOAuthToken(String accessToken, String refreshToken);
 
         void onOAuthError(Velocity.Response error);
     }
